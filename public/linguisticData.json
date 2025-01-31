@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "family": "Afroasiatic",
+        "description": "The Afroasiatic language family includes languages spoken in North Africa, the Horn of Africa, parts of the Sahel, and the Middle East. Major languages include Arabic, Amharic, Somali, and Hausa.",
+        "region": "North Africa, Horn of Africa, Sahel"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-17.0, 15.0],
+            [55.0, 15.0],
+            [55.0, 40.0],
+            [-17.0, 40.0],
+            [-17.0, 15.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "family": "Niger-Congo",
+        "description": "The Niger-Congo language family is the largest in Africa, covering Sub-Saharan Africa. It includes Bantu languages such as Swahili, Yoruba, and Zulu.",
+        "region": "Sub-Saharan Africa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-20.0, -35.0],
+            [40.0, -35.0],
+            [40.0, 15.0],
+            [-20.0, 15.0],
+            [-20.0, -35.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "family": "Nilo-Saharan",
+        "description": "The Nilo-Saharan languages are spoken in the central and eastern regions of Africa, covering parts of Sudan, Chad, Uganda, and Kenya. Major languages include Luo, Kanuri, and Maasai.",
+        "region": "Central and Eastern Africa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [22.0, 5.0],
+            [40.0, 5.0],
+            [40.0, 20.0],
+            [22.0, 20.0],
+            [22.0, 5.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "family": "Khoisan",
+        "description": "The Khoisan languages are a group of languages spoken by the Khoikhoi and San peoples in Southern Africa, particularly in Namibia and Botswana. These languages are known for their click consonants.",
+        "region": "Southern Africa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.0, -30.0],
+            [30.0, -30.0],
+            [30.0, -15.0],
+            [15.0, -15.0],
+            [15.0, -30.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "family": "Austronesian",
+        "description": "Austronesian languages, such as Malagasy, are spoken in Madagascar. These languages have roots in Southeast Asia.",
+        "region": "Madagascar"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [43.0, -25.0],
+            [50.0, -25.0],
+            [50.0, -10.0],
+            [43.0, -10.0],
+            [43.0, -25.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "family": "Indo-European",
+        "description": "Indo-European languages, such as English and Afrikaans, are spoken in various parts of Southern Africa due to colonial history.",
+        "region": "South Africa, Namibia, Zimbabwe"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.0, -35.0],
+            [35.0, -35.0],
+            [35.0, -20.0],
+            [15.0, -20.0],
+            [15.0, -35.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "family": "Ubangi",
+        "description": "Ubangi languages are part of the Niger-Congo family and are spoken in Central Africa, particularly in the Central African Republic and the Democratic Republic of the Congo.",
+        "region": "Central Africa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [15.0, 0.0],
+            [30.0, 0.0],
+            [30.0, 10.0],
+            [15.0, 10.0],
+            [15.0, 0.0]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "family": "Bantu",
+        "description": "Bantu languages, a subgroup of the Niger-Congo family, are spoken widely across Central, Eastern, and Southern Africa. They include Swahili, Zulu, and Shona.",
+        "region": "Central, Eastern, and Southern Africa"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [10.0, -10.0],
+            [40.0, -10.0],
+            [40.0, 0.0],
+            [10.0, 0.0],
+            [10.0, -10.0]
+          ]
+        ]
+      }
+    }
+  ]
+}
+
+

@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "population": "Nama",
+        "genetic_marker": "mtDNA L0",
+        "year": 135000,
+        "description": "The Nama people have the genetic marker L0, which is one of the oldest known maternal lineages."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.489, -28.851]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "population": "Mende",
+        "genetic_marker": "mtDNA L2a1",
+        "year": 80000,
+        "description": "The Mende people carry the L2a1 genetic marker, indicating a long history in West Africa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.437, 7.939]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "population": "Gumuz",
+        "genetic_marker": "Y-DNA A2",
+        "year": 60000,
+        "description": "The Gumuz people are associated with the A2 haplogroup, one of the oldest paternal lineages."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.512, 10.107]
+      }
+    }
+  ]
+}
+

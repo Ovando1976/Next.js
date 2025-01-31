@@ -1,0 +1,4 @@
+[
+    { "question": "When did Homo sapiens first appear?", "options": ["1M years ago", "300,000 years ago", "50,000 years ago"], "answer": "300,000 years ago", "yearRange": [-300000, -200000] },
+    { "question": "Where did the first Out of Africa migration take place?", "options": ["Europe", "Arabian Peninsula", "Australia"], "answer": "Arabian Peninsula", "yearRange": [-70000, -50000] }
+  ]

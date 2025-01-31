@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "site": "Jebel Irhoud",
+        "period": "Middle Stone Age",
+        "year": 300000,
+        "description": "Jebel Irhoud, Morocco, is one of the oldest known sites where modern human fossils have been found, dating to around 300,000 years ago."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.033, 33.946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site": "Herto",
+        "period": "Middle Awash",
+        "year": 160000,
+        "description": "Herto, Ethiopia, is a Middle Awash site where Homo sapiens idaltu fossils were found, dating back to around 160,000 years ago."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [40.301, 11.143]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "site": "Klasies River",
+        "period": "Middle Stone Age",
+        "year": 125000,
+        "description": "Klasies River in South Africa is an important Middle Stone Age site with evidence of early modern humans living there around 125,000 years ago."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.375, -34.115]
+      }
+    }
+  ]
+}
+

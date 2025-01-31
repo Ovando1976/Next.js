@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [[20, -10], [30, -10], [30, -20], [20, -20], [20, -10]] 
+          ]
+        },
+        "properties": {
+          "name": "Stem 1S (Southern Africa)",
+          "description": "Southern branch of Stem 1, contributing to Nama populations (~29%).",
+          "color": "#e31a1c",
+          "time": "479kya - present"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [[30, 5], [40, 5], [40, -5], [30, -5], [30, 5]] 
+          ]
+        },
+        "properties": {
+          "name": "Stem 1E (East Africa)",
+          "description": "Eastern branch of Stem 1, contributing to modern East Africans (~50%).",
+          "color": "#33a02c",
+          "time": "479kya - present"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [[10, 0], [20, 0], [20, -10], [10, -10], [10, 0]] 
+          ]
+        },
+        "properties": {
+          "name": "Stem 2 (Central Africa)",
+          "description": "Western/Central stem contributing variably to all African populations.",
+          "color": "#ff7f00",
+          "time": "1.4Mya - present"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [20, -15], 
+            [10, -5]   
+          ]
+        },
+        "properties": {
+          "name": "Migration Path",
+          "description": "Continuous migration between Stem 1S and Stem 2.",
+          "color": "#cccccc",
+          "time": "1.4Mya - present"
+        }
+      }
+    ]
+  }

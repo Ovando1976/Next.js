@@ -1,0 +1,4 @@
+[
+    { "id": 1, "title": "First Homo sapiens", "year": -300000, "description": "Earliest humans appear in Africa.", "image": "/images/earliest-humans.jpg" },
+    { "id": 2, "title": "Out of Africa", "year": -70000, "description": "First migration out of Africa.", "image": "/images/migration-route.jpg" }
+  ]

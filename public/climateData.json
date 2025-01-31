@@ -1,0 +1,122 @@
+{
+  "type": "FeatureCollection",
+  "timeline": [
+    {
+      "isotopeStage": "MIS 1",
+      "period": "0 to 12,000 years ago",
+      "description": "The Holocene, characterized by warmer temperatures and stable climate conditions.",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "climate": "Tropical",
+            "description": "Stable warm temperatures with consistent rainfall in Central Africa."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [10.0, -10.0],
+                [35.0, -10.0],
+                [35.0, 5.0],
+                [10.0, 5.0],
+                [10.0, -10.0]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "climate": "Arid",
+            "description": "The Sahara Desert experienced arid conditions with minimal rainfall."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-15.0, 15.0],
+                [30.0, 15.0],
+                [30.0, 30.0],
+                [-15.0, 30.0],
+                [-15.0, 15.0]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "isotopeStage": "MIS 2",
+      "period": "12,000 to 29,000 years ago",
+      "description": "Last Glacial Maximum, characterized by cooler temperatures and expanded arid regions.",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "climate": "Arid",
+            "description": "Arid conditions expanded during this period, with much of North Africa becoming desert."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [-20.0, 10.0],
+                [35.0, 10.0],
+                [35.0, 25.0],
+                [-20.0, 25.0],
+                [-20.0, 10.0]
+              ]
+            ]
+          }
+        },
+        {
+          "type": "Feature",
+          "properties": {
+            "climate": "Temperate",
+            "description": "Southern Africa experienced cooler and more temperate conditions."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [15.0, -30.0],
+                [30.0, -30.0],
+                [30.0, -15.0],
+                [15.0, -15.0],
+                [15.0, -30.0]
+              ]
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "isotopeStage": "MIS 3",
+      "period": "29,000 to 57,000 years ago",
+      "description": "A period of fluctuating climates, with varying temperatures and changes in precipitation.",
+      "features": [
+        {
+          "type": "Feature",
+          "properties": {
+            "climate": "Fluctuating",
+            "description": "Central Africa experienced a mix of tropical and arid conditions, with frequent shifts in climate."
+          },
+          "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+              [
+                [5.0, -10.0],
+                [35.0, -10.0],
+                [35.0, 10.0],
+                [5.0, 10.0],
+                [5.0, -10.0]
+              ]
+            ]
+          }
+        }
+      ]
+    }
+  
+  ]
+}

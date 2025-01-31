@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [18.4241, -33.9249] 
+        },
+        "properties": {
+          "name": "Nama (Khoe-San)",
+          "description": "Earliest divergence around 135kya.",
+          "color": "#1f78b4"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [7.5, 9.1] 
+        },
+        "properties": {
+          "name": "Nigeria (West Africa)",
+          "description": "West African population with cultural and genetic contributions.",
+          "color": "#33a02c"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-7.0926, 31.7917] 
+        },
+        "properties": {
+          "name": "Morocco",
+          "description": "Region linked to Jebel Irhoud fossils (~315kya).",
+          "color": "#e31a1c"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [18.4241, -33.9249],  
+            [39.5, 8.0]           
+          ]
+        },
+        "properties": {
+          "name": "Migration Path",
+          "description": "Gene flow from East Africans to Nama (2kya).",
+          "color": "#ff7f00"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [7.5, 9.1], 
+            [39.5, 8.0] 
+          ]
+        },
+        "properties": {
+          "name": "Migration Path",
+          "description": "Gene flow between Nigeria and East Africa.",
+          "color": "#6a3d9a"
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "LineString",
+          "coordinates": [
+            [-7.0926, 31.7917],  
+            [18.4241, -33.9249]  
+          ]
+        },
+        "properties": {
+          "name": "Migration Path",
+          "description": "Possible migration between Morocco and southern Africa.",
+          "color": "#b15928"
+        }
+      }
+    ]
+  }
